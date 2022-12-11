@@ -6,7 +6,7 @@ const { NFTStorage } = require('nft.storage')
 const Store = require('electron-store')
 const fs = require('fs')
 
-const endpoint = 'https://api.nft.storage'
+const endpoint = 'https://api.web3.storage'
 const maxRetries = 10
 
 function createWindow () {
